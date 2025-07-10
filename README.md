@@ -1,4 +1,5 @@
-<h2 align="center">Hi My name is Pranjal Yadav. I am a Full stack AI-ML Developer</h2>
+<h2 align="center">Hi I'm Pranjal. 
+  I am a Full stack AI-ML Developer</h2>
 
 ###
 
